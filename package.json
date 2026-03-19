@@ -1,6 +1,5 @@
 {
   "name": "todo-mern-app",
-  "proxy": "http://localhost:8080",
   "version": "1.0.0",
   "description": "Todo app from YT",
   "license": "ISC",
